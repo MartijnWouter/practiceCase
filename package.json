@@ -5,8 +5,9 @@
   "main": "main.js",
   "dependencies": {},
   "devDependencies": {
-    "mocha": "^5.2.0",
-    "chai": "^4.2.0"
+    "chai": "^4.2.0",
+    "electron": "^4.0.7",
+    "mocha": "^5.2.0"
   },
   "scripts": {
     "test": "mocha"
