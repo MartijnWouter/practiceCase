@@ -1,5 +1,5 @@
 var expect = require('chai').expect;
-var addTwoNumbers = require('../addTwoNumbers');
+var addTwoNumbers = require('classes/Battle');
 //PROBLEM: i don't know what to test
 describe('addTwoNumbers()', function () {
     it('should add two numbers', function () {
